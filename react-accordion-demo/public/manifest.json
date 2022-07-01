@@ -1,0 +1,6 @@
+{
+  "short_name": "Accordion Component",
+  "name": "Accordion Component Simple App",
+  "start_url": ".",
+  "display": "standalone"
+}

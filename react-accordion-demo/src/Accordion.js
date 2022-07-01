@@ -11,7 +11,9 @@ const Accordion = ({ title, content,image }) => {
             </div>
             {isActive &&
                 <div class="accordion-content">
-                    {content}
+                    <p>
+                        {content}
+                    </p>
                     <div class="image">
                         <img src={`${image}`} alt="Image"/>
                     </div>
